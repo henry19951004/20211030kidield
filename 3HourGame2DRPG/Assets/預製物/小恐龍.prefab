@@ -51,6 +51,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -251,8 +252,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bb0881e6b5536c46a79ed05a492fe5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 550
-  jump: 600
+  speed: 470
+  jump: 500
   v2GroundOffset: {x: 0, y: 0, z: 0}
   radiusGround: 0.2
   soundJump: {fileID: 8300000, guid: 7f099ae3678e25c428cb8f34a213e36d, type: 3}
